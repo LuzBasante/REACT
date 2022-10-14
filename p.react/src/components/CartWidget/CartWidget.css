@@ -1,0 +1,19 @@
+
+.container-widget {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.widget img {
+    width: 60px;
+    height: 60px;
+}
+
+#carrito {
+    align-self: flex-end;
+}
+
+#contador {
+    color: aliceblue;
+}
