@@ -48,7 +48,7 @@ const products =  [
         id: '6', 
         name: 'Nike ', 
         price: 22000, 
-        category: 'Lampara', 
+        category: 'nike', 
         img:'/images/nike2.jpg', 
         stock: 1, 
         description:'Descripcion pendiente'

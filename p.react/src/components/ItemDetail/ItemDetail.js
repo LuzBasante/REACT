@@ -1,4 +1,4 @@
-import'../AsyncMock'
+import'../asyncMock'
 import '../ItemDetail/ItemDetail.css'
 import ItemCount from '../ItemCount/ItemCount'
 import { useState } from 'react'

@@ -1,6 +1,6 @@
 
 import '../ItemList/ItemList.css'
-import Item from '../Item/Item'
+import item from '../Item/item'
 
 const ItemList = ({products, setPage }) => {
     return(
